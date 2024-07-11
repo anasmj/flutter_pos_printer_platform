@@ -18,7 +18,7 @@ dependencies:
       url: https://github.com/anasmj/flutter_star_prnt
       ref: main
   enum_to_string: ^2.0.1
-  image: ^3.0.2
+  image: ^4.2.0
 
   network_info_plus: ^5.0.3
   ping_discover_network_forked: ^0.0.1
